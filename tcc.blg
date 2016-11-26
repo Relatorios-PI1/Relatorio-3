@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tcc.aux
+The style file: unsrt.bst
+Database file #1: abntex2-options.bib
+Warning--entry type for "abnt-url-package=url" isn't style-file defined
+--line 199 of file abntex2-options.bib
+Database file #2: bibliografia.bib
+Warning--I didn't find a database entry for "alternativasemissoes"
+Warning--all relevant fields are empty in abnt-url-package=url
+Warning--empty journal in treinamentobiodigestao
+Warning--empty journal in viabilidadefinanceirabiogas
+Warning--empty journal in reduceammoniaandodor
+You've used 4 entries,
+            1791 wiz_defined-function locations,
+            463 strings with 4198 characters,
+and the built_in function-call counts, 678 in all, are:
+= -- 46
+> -- 37
+< -- 0
++ -- 14
+- -- 10
+* -- 39
+:= -- 112
+add.period$ -- 10
+call.type$ -- 4
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 8
+duplicate$ -- 30
+empty$ -- 70
+format.name$ -- 10
+if$ -- 141
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 3
+newline$ -- 21
+num.names$ -- 3
+pop$ -- 18
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 20
+stack$ -- 0
+substring$ -- 25
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 5
+width$ -- 5
+write$ -- 34
+(There were 6 warnings)
