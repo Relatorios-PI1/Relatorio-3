@@ -1,0 +1,154 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Braga 2008]{braga2008energia}
+\abntrefinfo{Braga}{BRAGA}{2008}
+{BRAGA, R.~P. Energia solar fotovoltaica: Fundamentos e aplica{\c{c}}{\~o}es.
+\emph{Universidade Federal do Rio de Janeiro. Escola Polit{\'e}cnica.
+  Departamento de Engenharia El{\'e}trica}, 2008.}
+
+\bibitem[Capatan et al. 2012]{viabilidadefinanceirabiogas}
+\abntrefinfo{Capatan et al.}{CAPATAN et al.}{2012}
+{CAPATAN, D. et al. An\'alise da viabilidade financeira da produ\c{c}\~ao de
+  biog\'as atrav\'es de dejetos de equinos.
+2012.}
+
+\bibitem[Chernicharo et al. 2010]{de2010alternativas}
+\abntrefinfo{Chernicharo et al.}{CHERNICHARO et al.}{2010}
+{CHERNICHARO, C.~A. de L. et al. Alternativas para o controle de emiss{\~o}es
+  odorantes em reatores anaer{\'o}bios tratando esgoto dom{\'e}stico.
+\emph{Eng Sanit Ambient}, SciELO Brasil, v.~15, n.~3, p. 229--236, 2010.}
+
+\bibitem[Colle e Pereira 1998]{colle1998atlas}
+\abntrefinfo{Colle e Pereira}{COLLE; PEREIRA}{1998}
+{COLLE, S.; PEREIRA, E.~B. Atlas de irradia{\c{c}}{\~a}o solar do brasil.
+\emph{LABSOLAR/INMET, UFSC}, 1998.}
+
+\bibitem[CRESESB. Energia Solar: Princ\'ipios e Aplica\c{c}~oes. Ilha do
+  Fund\~ao, CEPEL, 2006.]{creseb2006energia}
+\abntrefinfo{CRESESB\ldots}{CRESESB\ldots}{}
+{CRESESB. Energia Solar: Princ\'ipios e Aplica\c{c}~oes. Ilha do Fund\~ao,
+  CEPEL, 2006.
+  \url{http://www.cresesb.cepel.br/download/tutorial/tutorial_solar_2006.pdf}.
+03-11-2016.}
+
+\bibitem[ECOPLANETENERGY. Energia H\'ibrida.]{ecoplanetenergy}
+\abntrefinfo{ECOPLANETENERGY\ldots}{ECOPLANETENERGY\ldots}{}
+{ECOPLANETENERGY. Energia H\'ibrida. \url{https://goo.gl/tik9hb&gt}.
+28-10-2016.}
+
+\bibitem[ECYCLE. Conhe\c{c}a todos os componentes do sistema solar
+  fotovoltaico.]{ecycleconheca}
+\abntrefinfo{ECYCLE\ldots}{ECYCLE\ldots}{}
+{ECYCLE. Conhe\c{c}a todos os componentes do sistema solar fotovoltaico.
+  \url{https://goo.gl/KKmRpE}.
+28-10-2016.}
+
+\bibitem[Galloway e Hancke 2013]{galloway2013introduction}
+\abntrefinfo{Galloway e Hancke}{GALLOWAY; HANCKE}{2013}
+{GALLOWAY, B.; HANCKE, G.~P. Introduction to industrial control networks.
+\emph{IEEE Communications surveys \& tutorials}, IEEE, v.~15, n.~2, p.
+  860--880, 2013.}
+
+\bibitem[Junior 2008]{da2008projeto}
+\abntrefinfo{Junior}{JUNIOR}{2008}
+{JUNIOR, C. R.~J. da S.
+\emph{Projeto de um sistema fotovoltaico para energiza{\c{c}}{\~a}o de um
+  equipamento de pesca com eletricidade}.
+Tese (Doutorado) --- UNIVERSIDADE FEDERAL DO RIO DE JANEIRO, 2008.}
+
+\bibitem[Kup 2015]{kup2015estudo}
+\abntrefinfo{Kup}{KUP}{2015}
+{KUP, M.~T.
+\emph{Estudo da medi{\c{c}}{\~a}o inteligente para consumidores residenciais no
+  Brasil}.
+Tese (Doutorado) --- Universidade Federal do Rio de Janeiro, 2015.}
+
+\bibitem[McCROY e HOBBS 2001]{reduceammoniaandodor}
+\abntrefinfo{McCROY e HOBBS}{MCCROY; HOBBS}{2001}
+{MCCROY, D.~F.; HOBBS, P.~J. Additivies to reduce ammonia and odor emissions
+  from livestock wastes: a review.journal of environmental quality. madison.
+v.~30, p. 345--355, 2001.}
+
+\bibitem[Nascimento 2004]{do2004principio}
+\abntrefinfo{Nascimento}{NASCIMENTO}{2004}
+{NASCIMENTO, C.~A. do.
+\emph{Princ{\'\i}pio de funcionamento da c{\'e}lula fotovoltaica}.
+Tese (Doutorado) --- Universidade Federal de Lavras, 2004.}
+
+\bibitem[Neosolar, Inversores ou Conversores.]{neosolaronda}
+\abntrefinfo{Neosolar\ldots}{NEOSOLAR\ldots}{a}
+{NEOSOLAR, Inversores ou Conversores. \url{https://goo.gl/ba5lqV}.
+28-10-2016.}
+
+\bibitem[Neosolar, Painel solar fotovoltaico.]{neosolar}
+\abntrefinfo{Neosolar\ldots}{NEOSOLAR\ldots}{b}
+{NEOSOLAR, Painel solar fotovoltaico.
+  \url{http://www.neosolar.com.br/aprenda/saiba-mais/painel-solar-fotovoltaico}.
+31-10-2016.}
+
+\bibitem[Neosolar, Sistemas Isolados - Off-Grid.]{neosolarisolado}
+\abntrefinfo{Neosolar\ldots}{NEOSOLAR\ldots}{c}
+{NEOSOLAR, Sistemas Isolados - Off-Grid. \url{https://goo.gl/9AbAi6}.
+28-10-2016.}
+
+\bibitem[OLIVER et al. 2008]{treinamentobiodigestao}
+\abntrefinfo{OLIVER et al.}{OLIVER et al.}{2008}
+{OLIVER, A. d. P.~M. et al. Manual de treinamento em biodigest\~ao. instituto
+  winrock, universidade do estado da bahia, brasil.
+2008.}
+
+\bibitem[Pinheiro 2002]{jose2002sistema}
+\abntrefinfo{Pinheiro}{PINHEIRO}{2002}
+{PINHEIRO, J. M.~S. \emph{Sistema de Transmiss\~ao e Meios \'Opticos}. 2002.
+  \url{http://www.eeec.ufg.br/~lguedes/moodle/txdados/fo.pdf}.}
+
+\bibitem[Rocha e Dias 2015]{rocha2015importancia}
+\abntrefinfo{Rocha e Dias}{ROCHA; DIAS}{2015}
+{ROCHA, J.~F.; DIAS, J.~W. \emph{Import\^ancia dos Bancos de Dados nas
+  aplica\c{c}\~oes}. 2015.
+  \url{http://web.unipar.br/~seinpar/2015/_include/artigos/Julio_Fernandes_Rocha.pdf}.}
+
+\bibitem[SOLAR BRASIL. O que s\~ao sistemas conectados \`a rede
+  (On-Grid)?]{solarbrasil}
+\abntrefinfo{SOLAR\ldots}{SOLAR\ldots}{}
+{SOLAR BRASIL. O que s\~ao sistemas conectados \`a rede (On-Grid)?
+  \url{https://goo.gl/TrncMp&gt}.
+28-10-2016.}
+
+\bibitem[Staiss e Pereira 2001]{staiss2001biomassa}
+\abntrefinfo{Staiss e Pereira}{STAISS; PEREIRA}{2001}
+{STAISS, C.; PEREIRA, H. Biomassa, energia renov{\'a}vel na agricultura e no
+  sector florestal.
+\emph{Revista Agros, Instituto Superior de Agronomia, Portugal}, v.~13, n.~1,
+  p. 21--28, 2001.}
+
+\bibitem[Svoboda e Dorf 2008]{svoboda2008introduccao}
+\abntrefinfo{Svoboda e Dorf}{SVOBODA; DORF}{2008}
+{SVOBODA, J.~A.; DORF, R.~C. \emph{Introdu{\c{c}}{\~a}o aos Circuitos
+  El{\'e}tricos}. [S.l.]: LTC Editora, Rio de Janeiro, 2008.}
+
+\bibitem[Texier, Farge e Granier 1979]{texier1979influence}
+\abntrefinfo{Texier, Farge e Granier}{TEXIER; FARGE; GRANIER}{1979}
+{TEXIER, C.; FARGE, B.~d. L.; GRANIER, R. Influence des variations des
+  principaux facteurs de l'ambiance an porcherie d'engraissment.
+\emph{Journ{\'e}es de la Recherche Porcine en France, Paris}, n.~11, p.
+  153--164, 1979.}
+
+\bibitem[Thomazini e Albuquerque 2005]{thomazini2005sensores}
+\abntrefinfo{Thomazini e Albuquerque}{THOMAZINI; ALBUQUERQUE}{2005}
+{THOMAZINI, D.; ALBUQUERQUE, P. U. B.~d. Sensores industriais: fundamentos e
+  aplica{\c{c}}{\~o}es.
+\emph{S{\~a}o Paulo}, v.~3, p.~32, 2005.}
+
+\bibitem[Tomasin et al. 2014]{josesmartgrid}
+\abntrefinfo{Tomasin et al.}{TOMASIN et al.}{2014}
+{TOMASIN, S.~G. et al. \emph{Smart Grids - Uma vis\~ao geral com enfoque em
+  condicionamento e qualidade de energia el\'etrica.} 2014.
+  \url{https://goo.gl/BdE9yC}.}
+
+\end{thebibliography}

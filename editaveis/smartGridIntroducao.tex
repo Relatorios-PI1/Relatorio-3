@@ -1,0 +1,45 @@
+\part{Smart Grid}
+\chapter[Smart Grid]{Smart Grid}
+
+\section{Introdução}
+
+\subsection{Resumo}
+Smart Grid (Rede inteligente) é um sistema de controle inteligente da energia elétrica, que é utilizado em um determinado local, com o objetivo principal de otimizar o consumo de energia elétrica e promover o controle por meio de ações inteligentes. Essa otimização da rede pode se dar pela utilização da rede já presente, promovendo apenas automações e controles, ou pela utilização de uma geração distribuída de energia com a adição de fontes renováveis aliadas à automação e controle. Busca-se, com o uso dessas tecnologias, proporcionar um uso eficiente, sustentável e racional dos recursos energéticos, podendo trazer benefícios financeiros ou não.
+
+Esses sistemas permitem a implementação de duas formas principais de geração distribuída: \textit{On grid} e \textit{Off Grid}. Os sistemas On grid são ligados à rede elétrica e a energia gerada é armazenada na rede de distribuição. A economia de eletricidade se dá por meio de descontos na fatura de energia elétrica ou pela compensação. Caso a eletricidade gerada não for o suficiente, a rede elétrica externa compensa o consumo excedente. O sistema Off Grid, ou sistema isolado, não é conectado à rede elétrica externa, sendo utilizável para uso local e isolado de rede elétrica, abastecendo diretamente os aparelhos que utilizarão a energia. Além disso, sistemas Off Grid necessitam de unidades de armazenamento local, tais como baterias, visto que a variação na fonte geradora não pode causar alterações na corrente elétrica local. 
+
+As tecnologias que compõem um sistema Smart Grid possuem complexidade elevada e um alto nível de integração entre seus diversos componentes, que podem ser divididos em quatro importantes setores que se interagem. São eles: o sensoriamento e controle, transmissão de dados, automatização e TI e a análise avançada dos dados. Eles estão intimamente ligados em todas as aplicações no sistema e procuram encontrar formas mais efetivas para evoluir continuamente o sistema, não ficando presos às primeiras modificações. O sistema inteligente é monitorado em todas as suas fases, permitindo um maior controle sobre o sistema e podendo ser identificado à pronta mão, onde estão os maiores problemas e riscos ao sistema, dando uma maior segurança aos usuários.
+
+
+\subsection{Sensoriamento e controle}
+Sensores e transdutores podem ser caracterizados como todo e qualquer dispositivo capaz de analisar grandezas físicas e convertê-las em um indicativo visível ou em grandezas mensuráveis de tensão e corrente, no caso de transdutores. Portanto, os sensores e transdutores são dispositivos muito utilizados em circuitos eletroeletrônicos para o monitoramento, transmissão de dados, automação e controle de ações a partir de condições físicas externas ou internas a esses sistemas, tais como tensão, corrente elétrica, potência, temperatura, pressão, radiações eletromagnéticas, temperatura, dentre outros \cite{svoboda2008introduccao}.
+
+Diversos sensores são utilizados para o monitoramento e controle. Os sensores de linha, que analisam características elétricas da rede elétrica (tensão, corrente, defasagem, potência), são utilizados na construção de medidores inteligentes. \textbf{Sensores de temperatura} e piranômetros, que medem a irradiação solar e sensações térmicas, são sensores geralmente utilizados para realizar análises gráficas quanto às condições ambientais externas e internas do sistema, os quais podem ser guardados em bancos de dados.
+
+Dentre os sensores a serem utilizados na automação interna de sistemas Smart Grids destacam-se os sensores de luminosidade, sensores infravermelho e sensores de presença, que serão descritos posteriormente.
+
+Além desses tipos de sensores, vale ressaltar os \textbf{sensores de comunicação} e transmissão de dados, que constituem-se de sensores fotoelétricos, infravermelhos ou por meio de sensores ultrassonoros.
+
+
+\subsection{Análise avançada de dados}
+\begin{quotation}
+Aplicações avançadas que permitem aos operadores, projetistas de redes e executivos analisarem e extraírem informações úteis da rede de forma funcional e flexível. Aqui se incluem as técnicas de visualização de grande quantidade de dados, os quais são reduzidos a formatos visuais de fácil entendimento, softwares capazes de oferecer múltiplas opções para o operador da rede tomar uma ação quando requerida e simuladores para treinamento operacional e análises de casos.
+\end{quotation}
+
+Consiste, portanto, em uma solução de software avançada que controla e armazena dados referentes aos sensores de controle, tais como os de temperatura e de linha. Para essa análise a recepção de dados é feita a partir de hardwares, por meio da comunicação sem fio ou serial por meio de processadores ou microcontroladores embarcados.
+
+
+\subsection{Automação e TI}
+Dentro de uma estrutura Smart Grid, os componentes de automação e TI (tecnologias da informação) permitem diagnósticos rápidos e soluções precisas para interrupções na rede ou grandes desligamentos. Essas tecnologias baseiam-se e contribuem para as demais partes, tais como sensores, comunicação, análise de dados e fontes de energia. Sistemas nessa área incluem agentes inteligentes distribuídos, algoritmos e supercomputadores, sistemas SCADA – Supervisory Control and Data Acquisition, automação de subestações e resposta da demanda \cite{josesmartgrid}.
+
+Sistemas SCADA constituem-se de soluções de software voltadas para a análise e exibiçao de dados por meio de uma interface de comunicação com o usuário em tempo real, o que permite a configuração e ajuste para resolução de problemas de forma visual e o monitoramento de processos. Tal solução baseia-se na tecnologia da informação, muitas vezes associado também à \textit{internet das coisas} (IoT). Possui uma vida útil finita, visto que a tecnologia de informação evolui de forma rápida, tornando o software defasado em alguns anos, tornando um desafio a aplicação dessa tecnologia em projetos de longa vida útil \cite{galloway2013introduction}.
+
+A aplicação de agentes inteligentes em ambientes Smart Grid é comum, principalmente na medição do consumo de energia. Nessa vertente, existem dois conceitos ligados ao desenvolvimento de medidores inteligentes: AMR (Automated Meter Reading) e AMI (Advanced Metering Infrastructure).
+
+AMR é um sistema de medidores inteligentes que transfere os dados armazenados pelos medidores eletrônicos de forma automatizada quando integrado a um sistema de processamento de dados. Ou seja, não se faz necessária a presença humana para a leitura da medição. AMI é uma evolução do AMR, pois além de prover os dados obtidos na medição, esse sistema também faz a análise da demanda. Esse processo requer um processamento de dados mais sofisticado, visto que a atuação é direta nas instalações do consumidor, permitindo o planejamento mensal de consumo \cite{kup2015estudo}.
+
+
+\subsection{Transmissão de dados}
+Dentro de um sistema, é essencial que todos os componentes se comuniquem de forma adequada para que tudo funcione corretamente. Para definir a melhor forma de se transmitir os dados, podemos analisar a distância física que eles precisam percorrer e a quantidade de bits por segundo que se deseja transmitir. A comunicação entre os componentes envolve também alguns aspectos minuciosos como os protocolos, que consistem em um conjunto de regras no processo de interpretação e transmissão de dados de um componente.  Dependendo dos sensores escolhidos, por exemplo, pode não ser tão simples elaborar essa linha de transmissão de forma efetiva. Será visto mais a frente que uma alternativa é utilizar um sistema já existente no mercado com suporte para diferentes tipos de componentes.
+
+\input{editaveis/smartGridDesenvolvimento}
