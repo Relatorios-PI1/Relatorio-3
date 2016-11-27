@@ -5,12 +5,6 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
-\bibitem[Braga 2008]{braga2008energia}
-\abntrefinfo{Braga}{BRAGA}{2008}
-{BRAGA, R.~P. Energia solar fotovoltaica: Fundamentos e aplica{\c{c}}{\~o}es.
-\emph{Universidade Federal do Rio de Janeiro. Escola Polit{\'e}cnica.
-  Departamento de Engenharia El{\'e}trica}, 2008.}
-
 \bibitem[Capatan et al. 2012]{viabilidadefinanceirabiogas}
 \abntrefinfo{Capatan et al.}{CAPATAN et al.}{2012}
 {CAPATAN, D. et al. An\'alise da viabilidade financeira da produ\c{c}\~ao de
@@ -23,43 +17,11 @@
   odorantes em reatores anaer{\'o}bios tratando esgoto dom{\'e}stico.
 \emph{Eng Sanit Ambient}, SciELO Brasil, v.~15, n.~3, p. 229--236, 2010.}
 
-\bibitem[Colle e Pereira 1998]{colle1998atlas}
-\abntrefinfo{Colle e Pereira}{COLLE; PEREIRA}{1998}
-{COLLE, S.; PEREIRA, E.~B. Atlas de irradia{\c{c}}{\~a}o solar do brasil.
-\emph{LABSOLAR/INMET, UFSC}, 1998.}
-
-\bibitem[CRESESB. Energia Solar: Princ\'ipios e Aplica\c{c}~oes. Ilha do
-  Fund\~ao, CEPEL, 2006.]{creseb2006energia}
-\abntrefinfo{CRESESB\ldots}{CRESESB\ldots}{}
-{CRESESB. Energia Solar: Princ\'ipios e Aplica\c{c}~oes. Ilha do Fund\~ao,
-  CEPEL, 2006.
-  \url{http://www.cresesb.cepel.br/download/tutorial/tutorial_solar_2006.pdf}.
-03-11-2016.}
-
-\bibitem[ECOPLANETENERGY. Energia H\'ibrida.]{ecoplanetenergy}
-\abntrefinfo{ECOPLANETENERGY\ldots}{ECOPLANETENERGY\ldots}{}
-{ECOPLANETENERGY. Energia H\'ibrida. \url{https://goo.gl/tik9hb&gt}.
-28-10-2016.}
-
-\bibitem[ECYCLE. Conhe\c{c}a todos os componentes do sistema solar
-  fotovoltaico.]{ecycleconheca}
-\abntrefinfo{ECYCLE\ldots}{ECYCLE\ldots}{}
-{ECYCLE. Conhe\c{c}a todos os componentes do sistema solar fotovoltaico.
-  \url{https://goo.gl/KKmRpE}.
-28-10-2016.}
-
 \bibitem[Galloway e Hancke 2013]{galloway2013introduction}
 \abntrefinfo{Galloway e Hancke}{GALLOWAY; HANCKE}{2013}
 {GALLOWAY, B.; HANCKE, G.~P. Introduction to industrial control networks.
 \emph{IEEE Communications surveys \& tutorials}, IEEE, v.~15, n.~2, p.
   860--880, 2013.}
-
-\bibitem[Junior 2008]{da2008projeto}
-\abntrefinfo{Junior}{JUNIOR}{2008}
-{JUNIOR, C. R.~J. da S.
-\emph{Projeto de um sistema fotovoltaico para energiza{\c{c}}{\~a}o de um
-  equipamento de pesca com eletricidade}.
-Tese (Doutorado) --- UNIVERSIDADE FEDERAL DO RIO DE JANEIRO, 2008.}
 
 \bibitem[Kup 2015]{kup2015estudo}
 \abntrefinfo{Kup}{KUP}{2015}
@@ -73,28 +35,6 @@ Tese (Doutorado) --- Universidade Federal do Rio de Janeiro, 2015.}
 {MCCROY, D.~F.; HOBBS, P.~J. Additivies to reduce ammonia and odor emissions
   from livestock wastes: a review.journal of environmental quality. madison.
 v.~30, p. 345--355, 2001.}
-
-\bibitem[Nascimento 2004]{do2004principio}
-\abntrefinfo{Nascimento}{NASCIMENTO}{2004}
-{NASCIMENTO, C.~A. do.
-\emph{Princ{\'\i}pio de funcionamento da c{\'e}lula fotovoltaica}.
-Tese (Doutorado) --- Universidade Federal de Lavras, 2004.}
-
-\bibitem[Neosolar, Inversores ou Conversores.]{neosolaronda}
-\abntrefinfo{Neosolar\ldots}{NEOSOLAR\ldots}{a}
-{NEOSOLAR, Inversores ou Conversores. \url{https://goo.gl/ba5lqV}.
-28-10-2016.}
-
-\bibitem[Neosolar, Painel solar fotovoltaico.]{neosolar}
-\abntrefinfo{Neosolar\ldots}{NEOSOLAR\ldots}{b}
-{NEOSOLAR, Painel solar fotovoltaico.
-  \url{http://www.neosolar.com.br/aprenda/saiba-mais/painel-solar-fotovoltaico}.
-31-10-2016.}
-
-\bibitem[Neosolar, Sistemas Isolados - Off-Grid.]{neosolarisolado}
-\abntrefinfo{Neosolar\ldots}{NEOSOLAR\ldots}{c}
-{NEOSOLAR, Sistemas Isolados - Off-Grid. \url{https://goo.gl/9AbAi6}.
-28-10-2016.}
 
 \bibitem[OLIVER et al. 2008]{treinamentobiodigestao}
 \abntrefinfo{OLIVER et al.}{OLIVER et al.}{2008}
@@ -112,13 +52,6 @@ Tese (Doutorado) --- Universidade Federal de Lavras, 2004.}
 {ROCHA, J.~F.; DIAS, J.~W. \emph{Import\^ancia dos Bancos de Dados nas
   aplica\c{c}\~oes}. 2015.
   \url{http://web.unipar.br/~seinpar/2015/_include/artigos/Julio_Fernandes_Rocha.pdf}.}
-
-\bibitem[SOLAR BRASIL. O que s\~ao sistemas conectados \`a rede
-  (On-Grid)?]{solarbrasil}
-\abntrefinfo{SOLAR\ldots}{SOLAR\ldots}{}
-{SOLAR BRASIL. O que s\~ao sistemas conectados \`a rede (On-Grid)?
-  \url{https://goo.gl/TrncMp&gt}.
-28-10-2016.}
 
 \bibitem[Staiss e Pereira 2001]{staiss2001biomassa}
 \abntrefinfo{Staiss e Pereira}{STAISS; PEREIRA}{2001}

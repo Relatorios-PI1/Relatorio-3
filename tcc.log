@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.11.25)  26 NOV 2016 14:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.11.25)  27 NOV 2016 17:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1209,27 +1209,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-<figuras/ret1.png, id=218, 1171.37625pt x 585.18625pt>
+<figuras/ret1.png, id=235, 1171.37625pt x 585.18625pt>
 File: figuras/ret1.png Graphic file (type png)
  <use figuras/ret1.png>
 Package pdftex.def Info: figuras/ret1.png used on input line 43.
 (pdftex.def)             Requested size: 448.1309pt x 223.87318pt.
 
-<figuras/ret2.png, id=220, 1059.96pt x 469.755pt>
+<figuras/ret2.png, id=237, 1059.96pt x 469.755pt>
 File: figuras/ret2.png Graphic file (type png)
  <use figuras/ret2.png>
 Package pdftex.def Info: figuras/ret2.png used on input line 50.
 (pdftex.def)             Requested size: 448.1309pt x 198.60031pt.
 
 [11 <./figuras/ret1.png>]
-<figuras/ret3.png, id=229, 956.57375pt x 151.56625pt>
+<figuras/ret3.png, id=246, 956.57375pt x 151.56625pt>
 File: figuras/ret3.png Graphic file (type png)
  <use figuras/ret3.png>
 Package pdftex.def Info: figuras/ret3.png used on input line 63.
 (pdftex.def)             Requested size: 455.0pt x 72.09184pt.
 
 [12 <./figuras/ret2.png> <./figuras/ret3.png>] [13] [14] [15]
-<figuras/PosicaoBiodigestor.png, id=276, 392.46625pt x 389.455pt>
+<figuras/PosicaoBiodigestor.png, id=290, 392.46625pt x 389.455pt>
 File: figuras/PosicaoBiodigestor.png Graphic file (type png)
 
 <use figuras/PosicaoBiodigestor.png>
@@ -1240,135 +1240,147 @@ Package pdftex.def Info: figuras/PosicaoBiodigestor.png used on input line 111.
 
 ] [18] [19
 
-] [20]
-
-Package hyperref Warning: Suppressing empty link on input line 58.
-
-
-Package hyperref Warning: Suppressing empty link on input line 66.
-
-[21] <figuras/associacao.png, id=314, 643.40375pt x 212.795pt>
+] [20] [21]
+<figuras/associacao.png, id=317, 643.40375pt x 212.795pt>
 File: figuras/associacao.png Graphic file (type png)
 
 <use figuras/associacao.png>
-Package pdftex.def Info: figuras/associacao.png used on input line 88.
-(pdftex.def)             Requested size: 227.5pt x 75.2424pt.
+Package pdftex.def Info: figuras/associacao.png used on input line 74.
+(pdftex.def)             Requested size: 273.00278pt x 90.29218pt.
 
-<figuras/associacaoserie.png, id=317, 630.355pt x 224.84pt>
+<figuras/associacaoserie.png, id=318, 630.355pt x 224.84pt>
 File: figuras/associacaoserie.png Graphic file (type png)
 
 <use figuras/associacaoserie.png>
-Package pdftex.def Info: figuras/associacaoserie.png used on input line 97.
-(pdftex.def)             Requested size: 227.5pt x 81.14474pt.
-
-
-Package hyperref Warning: Suppressing empty link on input line 102.
-
-[22 <./figuras/associacao.png> <./figuras/associacaoserie.png>]
-
-Package hyperref Warning: Suppressing empty link on input line 104.
-
-
-Overfull \hbox (0.47658pt too wide) in paragraph at lines 110--111
-[]\T1/lmr/m/n/12 Os in-ver-so-res são con-ver-so-res de cor-rente con-tí-nua em
- cor-rente al-ter-nada (CC/CA).
- []
-
-[23]
-
-Package hyperref Warning: Suppressing empty link on input line 133.
-
-[24]
-
-Package hyperref Warning: Suppressing empty link on input line 147.
-
-
-Package hyperref Warning: Suppressing empty link on input line 148.
-
-<figuras/esquema.png, id=357, 657.45625pt x 432.61626pt>
+Package pdftex.def Info: figuras/associacaoserie.png used on input line 82.
+(pdftex.def)             Requested size: 273.00278pt x 97.37576pt.
+ [22 <./figuras/associacao.png> <./figuras/associacaoserie.png>] [23] [24]
+<figuras/esquema.png, id=346, 657.45625pt x 432.61626pt>
 File: figuras/esquema.png Graphic file (type png)
 
 <use figuras/esquema.png>
-Package pdftex.def Info: figuras/esquema.png used on input line 153.
-(pdftex.def)             Requested size: 227.5pt x 149.69504pt.
- <figuras/ongrid.png, id=358, 388.45125pt x 240.9pt>
+Package pdftex.def Info: figuras/esquema.png used on input line 129.
+(pdftex.def)             Requested size: 318.49861pt x 209.581pt.
+ <figuras/ongrid.png, id=347, 388.45125pt x 240.9pt>
 File: figuras/ongrid.png Graphic file (type png)
 
 <use figuras/ongrid.png>
-Package pdftex.def Info: figuras/ongrid.png used on input line 160.
-(pdftex.def)             Requested size: 227.5pt x 141.0895pt.
+Package pdftex.def Info: figuras/ongrid.png used on input line 137.
+(pdftex.def)             Requested size: 273.00278pt x 169.30887pt.
  [25 <./figuras/esquema.png> <./figuras/ongrid.png>]
-<figuras/atlas.png, id=372, 710.655pt x 678.535pt>
+<figuras/atlas.png, id=354, 710.655pt x 678.535pt>
 File: figuras/atlas.png Graphic file (type png)
  <use figuras/atlas.png>
-Package pdftex.def Info: figuras/atlas.png used on input line 173.
+Package pdftex.def Info: figuras/atlas.png used on input line 149.
 (pdftex.def)             Requested size: 341.25pt x 325.83804pt.
 
-<figuras/planoinclinado.png, id=378, 1005.7575pt x 620.3175pt>
+<figuras/planoinclinado.png, id=355, 1005.7575pt x 620.3175pt>
 File: figuras/planoinclinado.png Graphic file (type png)
 
 <use figuras/planoinclinado.png>
-Package pdftex.def Info: figuras/planoinclinado.png used on input line 184.
-(pdftex.def)             Requested size: 341.25pt x 210.46976pt.
+Package pdftex.def Info: figuras/planoinclinado.png used on input line 159.
+(pdftex.def)             Requested size: 409.49722pt x 252.56181pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (9.29646pt too wide) in paragraph at lines 163--164
+[]\T1/lmr/m/n/12 Neste grá-fico está con-tido va-lo-res de ra-di-a-ção so-lar q
+ue será ab-sor-vido (KWh/$\OML/lmm/m/it/12 m[]$\T1/lmr/m/n/12 .dia)
+ []
 
 [26 <./figuras/atlas.png>]
-<figuras/fotovoltaica.png, id=383, 805.0075pt x 568.1225pt>
-File: figuras/fotovoltaica.png Graphic file (type png)
-
-<use figuras/fotovoltaica.png>
-Package pdftex.def Info: figuras/fotovoltaica.png used on input line 197.
-(pdftex.def)             Requested size: 341.25pt x 240.82904pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[27 <./figuras/planoinclinado.png>]
-<figuras/placa.png, id=390, 131.49126pt x 281.05pt>
-File: figuras/placa.png Graphic file (type png)
- <use figuras/placa.png>
-Package pdftex.def Info: figuras/placa.png used on input line 214.
-(pdftex.def)             Requested size: 136.50139pt x 291.77048pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[28 <./figuras/fotovoltaica.png>]
-<figuras/painel.png, id=398, 159.59625pt x 331.2375pt>
-File: figuras/painel.png Graphic file (type png)
-
-<use figuras/painel.png>
-Package pdftex.def Info: figuras/painel.png used on input line 225.
-(pdftex.def)             Requested size: 136.50139pt x 283.30702pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figuras/marrom.png, id=401, 242.9075pt x 250.9375pt>
-File: figuras/marrom.png Graphic file (type png)
- <use figuras/marrom.png>
-Package pdftex.def Info: figuras/marrom.png used on input line 236.
-(pdftex.def)             Requested size: 136.50139pt x 141.01414pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) (./editaveis/smartGridIntroducao.tex [29 <./figuras/placa.png>] [30 <./figura
-s/painel.png> <./figuras/marrom.png>] [31
-
-] [32]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [33
+ [27 <./figuras/planoinclinado.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 183.
+
+<figuras/painel1.PNG, id=364, 169.38281pt x 228.855pt>
+File: figuras/painel1.PNG Graphic file (type png)
+
+<use figuras/painel1.PNG>
+Package pdftex.def Info: figuras/painel1.PNG used on input line 204.
+(pdftex.def)             Requested size: 227.5pt x 307.39044pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[28] <figuras/inversor.PNG, id=370, 180.675pt x 233.37187pt>
+File: figuras/inversor.PNG Graphic file (type png)
+
+<use figuras/inversor.PNG>
+Package pdftex.def Info: figuras/inversor.PNG used on input line 237.
+(pdftex.def)             Requested size: 227.5pt x 293.8578pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[29 <./figuras/painel1.PNG>] [30 <./figuras/inversor.PNG>]
+<figuras/cabo.PNG, id=382, 426.09187pt x 140.02313pt>
+File: figuras/cabo.PNG Graphic file (type png)
+ <use figuras/cabo.PNG>
+Package pdftex.def Info: figuras/cabo.PNG used on input line 273.
+(pdftex.def)             Requested size: 227.5pt x 74.76314pt.
+
+<figuras/composicaointerna.PNG, id=383, 271.76532pt x 164.86594pt>
+File: figuras/composicaointerna.PNG Graphic file (type png)
+
+<use figuras/composicaointerna.PNG>
+Package pdftex.def Info: figuras/composicaointerna.PNG used on input line 294.
+(pdftex.def)             Requested size: 227.5pt x 138.01851pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[31 <./figuras/cabo.PNG>]
+<figuras/angulacao.PNG, id=389, 293.59688pt x 269.50688pt>
+File: figuras/angulacao.PNG Graphic file (type png)
+
+<use figuras/angulacao.PNG>
+Package pdftex.def Info: figuras/angulacao.PNG used on input line 311.
+(pdftex.def)             Requested size: 227.5pt x 208.83276pt.
+ [32 <./figuras/composicaointerna.PNG> <./figuras/angulacao.PNG>] <figuras/pres
+ilha.PNG, id=396, 331.99031pt x 272.51813pt>
+File: figuras/presilha.PNG Graphic file (type png)
+
+<use figuras/presilha.PNG>
+Package pdftex.def Info: figuras/presilha.PNG used on input line 323.
+(pdftex.def)             Requested size: 227.5pt x 186.74863pt.
+
+<figuras/stringbox.PNG, id=397, 402.00188pt x 293.59688pt>
+File: figuras/stringbox.PNG Graphic file (type png)
+
+<use figuras/stringbox.PNG>
+Package pdftex.def Info: figuras/stringbox.PNG used on input line 333.
+(pdftex.def)             Requested size: 227.5pt x 166.15132pt.
+ [33 <./figuras/presilha.PNG> <./figuras/stringbox.PNG>] <figuras/disposicao.PN
+G, id=404, 683.55376pt x 526.96875pt>
+File: figuras/disposicao.PNG Graphic file (type png)
+
+<use figuras/disposicao.PNG>
+Package pdftex.def Info: figuras/disposicao.PNG used on input line 357.
+(pdftex.def)             Requested size: 409.49722pt x 315.70123pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./editaveis/smartGridIntroducao.tex [34] [35 <./figuras/disposicao.PNG>]
+[36
+
+] [37] [38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39
 
 ]
 Underfull \vbox (badness 3108) has occurred while \output is active []
 
- [34]
-[35] (./editaveis/smartGridDesenvolvimento.tex
-<figuras/tabelaSensoresTermicos.png, id=448, 565.36218pt x 487.06969pt>
+ [40]
+[41] (./editaveis/smartGridDesenvolvimento.tex
+<figuras/tabelaSensoresTermicos.png, id=456, 565.36218pt x 487.06969pt>
 File: figuras/tabelaSensoresTermicos.png Graphic file (type png)
 
 <use figuras/tabelaSensoresTermicos.png>
@@ -1379,7 +1391,7 @@ Package pdftex.def Info: figuras/tabelaSensoresTermicos.png used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figuras/tabelaSensorPresenca.png, id=451, 999.735pt x 590.205pt>
+<figuras/tabelaSensorPresenca.png, id=459, 999.735pt x 590.205pt>
 File: figuras/tabelaSensorPresenca.png Graphic file (type png)
 
 <use figuras/tabelaSensorPresenca.png>
@@ -1389,12 +1401,12 @@ Package pdftex.def Info: figuras/tabelaSensorPresenca.png used on input line 23
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [36]
+ [42]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[37 <./figuras/tabelaSensoresTermicos.png>]
-<figuras/tabelaSensorFotossintetico.png, id=464, 664.73344pt x 231.86626pt>
+[43 <./figuras/tabelaSensoresTermicos.png>]
+<figuras/tabelaSensorFotossintetico.png, id=472, 664.73344pt x 231.86626pt>
 File: figuras/tabelaSensorFotossintetico.png Graphic file (type png)
 
 <use figuras/tabelaSensorFotossintetico.png>
@@ -1405,17 +1417,17 @@ ine 39.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[38 <./figuras/tabelaSensorPresenca.png>]
-<figuras/tabelaSensorInfravermelho.png, id=474, 519.44063pt x 249.93375pt>
+[44 <./figuras/tabelaSensorPresenca.png>]
+<figuras/tabelaSensorInfravermelho.png, id=482, 519.44063pt x 249.93375pt>
 File: figuras/tabelaSensorInfravermelho.png Graphic file (type png)
 
 <use figuras/tabelaSensorInfravermelho.png>
 Package pdftex.def Info: figuras/tabelaSensorInfravermelho.png used on input li
 ne 51.
 (pdftex.def)             Requested size: 318.49861pt x 153.2488pt.
- [39 <./figuras/tabelaSensorFotossintetico.png> <./figuras/tabelaSensorInfraver
+ [45 <./figuras/tabelaSensorFotossintetico.png> <./figuras/tabelaSensorInfraver
 melho.png>]
-<figuras/quadroMedidoresInteligentes.png, id=479, 827.09pt x 677.53125pt>
+<figuras/quadroMedidoresInteligentes.png, id=487, 827.09pt x 677.53125pt>
 File: figuras/quadroMedidoresInteligentes.png Graphic file (type png)
 
 <use figuras/quadroMedidoresInteligentes.png>
@@ -1426,7 +1438,7 @@ line 83.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[40] <figuras/medidoresInteligentesSMW.png, id=484, 464.4853pt x 359.09157pt>
+[46] <figuras/medidoresInteligentesSMW.png, id=492, 464.4853pt x 359.09157pt>
 File: figuras/medidoresInteligentesSMW.png Graphic file (type png)
 
 <use figuras/medidoresInteligentesSMW.png>
@@ -1437,16 +1449,16 @@ e 101.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figuras/ordemFuncBiodigestor.png, id=485, 698.61pt x 149.8097pt>
+<figuras/ordemFuncBiodigestor.png, id=493, 698.61pt x 149.8097pt>
 File: figuras/ordemFuncBiodigestor.png Graphic file (type png)
 
 <use figuras/ordemFuncBiodigestor.png>
 Package pdftex.def Info: figuras/ordemFuncBiodigestor.png used on input line 11
 0.
 (pdftex.def)             Requested size: 341.25pt x 73.17879pt.
- [41 <./figuras/quadroMedidoresInteligentes.png>] [42 <./figuras/medidoresIntel
+ [47 <./figuras/quadroMedidoresInteligentes.png>] [48 <./figuras/medidoresIntel
 igentesSMW.png> <./figuras/ordemFuncBiodigestor.png>] <figuras/geradorBAT.png, 
-id=496, 526.96875pt x 526.96875pt>
+id=504, 526.96875pt x 526.96875pt>
 File: figuras/geradorBAT.png Graphic file (type png)
 
 <use figuras/geradorBAT.png>
@@ -1455,15 +1467,15 @@ Package pdftex.def Info: figuras/geradorBAT.png used on input line 126.
 
 Underfull \vbox (badness 3547) has occurred while \output is active []
 
- [43 <./figuras/geradorBAT.png>]
-<figuras/quadroStrazmaq.png, id=503, 325.96782pt x 257.46187pt>
+ [49 <./figuras/geradorBAT.png>]
+<figuras/quadroStrazmaq.png, id=511, 325.96782pt x 257.46187pt>
 File: figuras/quadroStrazmaq.png Graphic file (type png)
 
 <use figuras/quadroStrazmaq.png>
 Package pdftex.def Info: figuras/quadroStrazmaq.png used on input line 145.
 (pdftex.def)             Requested size: 318.49861pt x 251.58412pt.
- [44 <./figuras/quadroStrazmaq.png>]
-<figuras/bancoDados.png, id=511, 509.65407pt x 350.05782pt>
+ [50 <./figuras/quadroStrazmaq.png>]
+<figuras/bancoDados.png, id=519, 509.65407pt x 350.05782pt>
 File: figuras/bancoDados.png Graphic file (type png)
 
 <use figuras/bancoDados.png>
@@ -1472,15 +1484,15 @@ Package pdftex.def Info: figuras/bancoDados.png used on input line 170.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [45]
-[46 <./figuras/bancoDados.png>])) (./editaveis/conclusao.tex [47] [48
+ [51]
+[52 <./figuras/bancoDados.png>])) (./editaveis/conclusao.tex [53] [54
 
 ])
 (./tcc.bbl (./tcc.brf)
 \tf@brf=\write5
 \openout5 = `tcc.brf'.
 
- [49] [50
+ [55] [56
 
 ]
 
@@ -1488,11 +1500,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
 bibitemlist
-[51])
+)
 No file tcc.ind.
 
 AED: lastpage setting LastPage
-[52]
+[57]
 \tf@lof=\write6
 \openout6 = `tcc.lof'.
 
@@ -1505,7 +1517,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 46.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 46.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 46.
 Package rerunfilecheck Info: File `tcc.brf' has not changed.
-(rerunfilecheck)             Checksum: BBFFE19D70FB1DE4E764697DC9252217;1927.
+(rerunfilecheck)             Checksum: C14BEA880D34ACF279118578D2C520E9;953.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1513,16 +1525,16 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 46.
  ) 
 Here is how much of TeX's memory you used:
- 13010 strings out of 493029
- 191678 string characters out of 6136233
- 314837 words of memory out of 5000000
- 16066 multiletter control sequences out of 15000+600000
+ 12921 strings out of 493029
+ 189895 string characters out of 6136233
+ 311458 words of memory out of 5000000
+ 15968 multiletter control sequences out of 15000+600000
  75560 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,38p,1910b,629s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,13n,38p,1910b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share
-/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm
+ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm
 /lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texm
 f/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/t
@@ -1531,10 +1543,10 @@ usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmsy8.pfb>
-Output written on tcc.pdf (54 pages, 4630856 bytes).
+Output written on tcc.pdf (59 pages, 5222329 bytes).
 PDF statistics:
- 813 PDF objects out of 1000 (max. 8388607)
- 697 compressed objects within 7 object streams
- 173 named destinations out of 1000 (max. 500000)
- 498 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 804 PDF objects out of 1000 (max. 8388607)
+ 673 compressed objects within 7 object streams
+ 176 named destinations out of 1000 (max. 500000)
+ 550 words of extra memory for PDF output out of 10000 (max. 10000000)
 
