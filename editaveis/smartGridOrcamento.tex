@@ -10,7 +10,7 @@ Para as salas da FGA serão utilizados 2 sensores, nos banheiros somente 1, na b
 No prédio dos laboratórios e de sala de professores serão necessários 62 sensores, utilizando a mesma lógica inicial de quantidade de sensores por área. Ao total serão necessários 121 sensores, totalizando R\$2.420,00. 
 
 \subsection{Sensores Infravermelho}
-No caso do projeto Smart Grid, é necessário um par para a comunicação MESP-UAC e outro par para a comunicação UAC-UED, totalizando 4 sensores no valor total de £5.639,20 (aproximadamente R\$21.428,96) [**1**]. Os cálculos foram feitos considerando a cotação do euro no valor de R\$3,80 do dia 24/11/2016, obtido por meio da \textit{Citibank N.A}.
+No caso do projeto Smart Grid, é necessário um par para a comunicação MESP-UAC e outro par para a comunicação UAC-UED, totalizando 4 sensores no valor total de £5.639,20 (aproximadamente R\$21.428,96) \cite{1}. Os cálculos foram feitos considerando a cotação do euro no valor de R\$3,80 do dia 24/11/2016, obtido por meio da \textit{Citibank N.A}.
 
 O sensor de comunicação infravermelho DDLS 200/200.1-10-H, fornecido pela Leuze Eletronics, utilizado para realizar a comunicação entre os prédios da FGA, custa £1.409,80 (aproximadamente R\$5.357,24) a unidade. Este sensor atua como transmissor e receptor, sendo assim necessário um par de sensores para cada par de prédios que se comunicarão.
 
@@ -21,7 +21,7 @@ Por outro lado, foi observada a possibilidade de adoção de sistemas envolvendo
 
 Quanto à automação interna envolvendo sensores fotoelétricos, destacam-se os sistemas de dimerização, que são sistemas compostos por diversos componentes responsáveis por realizar dimerizações em lâmpadas fluorescentes. Esses sistemas podem ser compostos por sensores fotoelétricos interligados por sistemas de protocolo wireless, os quais, a partir de uma unidade de controle, realizarão a análise de dados, o tempo de utilização e potência fornecida pela central. Outra forma possível é a partir de um controlador central, do qual é possível retirar informações e programar a taxa e modo de dimerização requerida. Dentre as empresas que apresentam a versão pela implementação de soluções inteligentes, destacam-se a OSRAM e LUTRON. 
 
-Dentre as soluções propostas para a automação interna, destaca-se o esquema exemplificado por componentes da empresa LUTRON, esquematizado pela Figura \ref{fig:maestrowireless}, que possuiu uma melhor viabilidade econômica em oposição às soluções completas, tais como o sistema de gerenciamento em tempo real com sistemas de interfaces gráficas, exemplificados pelo sistema QUANTUM, ilustrado pela Figura \ref{fig:sistemaquantum} [**2**]. 
+Dentre as soluções propostas para a automação interna, destaca-se o esquema exemplificado por componentes da empresa LUTRON, esquematizado pela Figura \ref{fig:maestrowireless}, que possuiu uma melhor viabilidade econômica em oposição às soluções completas, tais como o sistema de gerenciamento em tempo real com sistemas de interfaces gráficas, exemplificados pelo sistema QUANTUM, ilustrado pela Figura \ref{fig:sistemaquantum} \cite{2}. 
 \begin{figure}[!h]
 	\centering
 	\includegraphics[width=1.0\textwidth]{figuras/maestroWireless.jpeg}
@@ -36,7 +36,7 @@ Dentre as soluções propostas para a automação interna, destaca-se o esquema 
 	\label{fig:sistemaquantum}
 \end{figure}
 
-Outra solução proposta pelas empresas LUTRON [**2**] e OSRAM [**3**], os balastros de luz fluorescentes são destacados como mais rentáveis econômicamente, os quais utilizam-se de sensores/atuadores/chaves dimerizáveis para o controle ou dimerização de lampadas fluorescentes a partir desses módulos controladores (balastros). Dentre os módulos fornecidos pela empresa LUTRON, destacam-se os módulos contidos na Figura \ref{fig:tabelabalastros}.  Os módulos referentes a empresa OSRAM encontram-se na Figura \ref{fig:solucaodimerizacao} :
+Outra solução proposta pelas empresas LUTRON \cite{2} e OSRAM \cite{3}, os balastros de luz fluorescentes são destacados como mais rentáveis econômicamente, os quais utilizam-se de sensores/atuadores/chaves dimerizáveis para o controle ou dimerização de lampadas fluorescentes a partir desses módulos controladores (balastros). Dentre os módulos fornecidos pela empresa LUTRON, destacam-se os módulos contidos na Figura \ref{fig:tabelabalastros}.  Os módulos referentes a empresa OSRAM encontram-se na Figura \ref{fig:solucaodimerizacao} :
  
 \begin{figure}[!h]
 	\centering
@@ -77,26 +77,26 @@ modelo escolhido para o projeto. Tal equipamento é trifásico, ideal para a red
 O preço de cada medidor segundo simulações feitas fica em torno de R\$500,00. Tendo em vista que se pretende instalar como antes discorrido e especificado 8 medidores, tem-se que o orçamento necessário para a instalação destes fica em torno de R\$3.000,00.
 
 \subsection{Sistema de Gerenciamento de Dados}
-É de suma importância um gerenciamento de dados em um sistema inteligente de rede elétrica e para isso é necessário softwares que realizam planilhas de consumo e armazenamento de dados. A metodologia para aquisição e supervisão de dados a ser utilizado é o SCADA (\textit{Supervisory Control And Data Acquisition}), pois é o que mostra ser mais útil e eficaz atualmente [**4**]. Existem uma quantidade considerável de softwares no mercado que fazem isso. Esses softwares administram os dados coletados e apresentam em forma de gráficos para uma melhor visualização. Esses também tem ferramentas de cálculos estatísticos para a análise dos dados coletados [**5**].
+É de suma importância um gerenciamento de dados em um sistema inteligente de rede elétrica e para isso é necessário softwares que realizam planilhas de consumo e armazenamento de dados. A metodologia para aquisição e supervisão de dados a ser utilizado é o SCADA (\textit{Supervisory Control And Data Acquisition}), pois é o que mostra ser mais útil e eficaz atualmente \cite{4}. Existem uma quantidade considerável de softwares no mercado que fazem isso. Esses softwares administram os dados coletados e apresentam em forma de gráficos para uma melhor visualização. Esses também tem ferramentas de cálculos estatísticos para a análise dos dados coletados \cite{5}.
 
-A solução encontrada foi do uso do software SCADA Action.NET que faz a aquisição de dados e controle de supervisão do processo controlado. Esse trabalha em plataforma de 64 bits, que suporta todos os protocolos da área elétrica, o que anula o risco de não compatibilidade entre os dispositivos da automação [**6**].
+A solução encontrada foi do uso do software SCADA Action.NET que faz a aquisição de dados e controle de supervisão do processo controlado. Esse trabalha em plataforma de 64 bits, que suporta todos os protocolos da área elétrica, o que anula o risco de não compatibilidade entre os dispositivos da automação \cite{6}.
 
 O fornecedor do software escolhido para uma estimativa de custos do projeto foi a Spin Engenharia de automação. Este fornece o software Action.NET e seu preço varia de acordo com que o software trabalhará e suas funcionalidades.
 
-Como o produto desejado não é algo que é vendido em prateleiras, ou seja, é comercializado para empresas e não consumidores comuns, a disponibilização de preços por parte das empresas não é simples. Como não houve resposta da empresa, utilizou os dados fornecidos pela empresa LABVIEW de um software semelhante ao desejado. O preço obtido foi de R\$45.250,00 [**7**].
+Como o produto desejado não é algo que é vendido em prateleiras, ou seja, é comercializado para empresas e não consumidores comuns, a disponibilização de preços por parte das empresas não é simples. Como não houve resposta da empresa, utilizou os dados fornecidos pela empresa LABVIEW de um software semelhante ao desejado. O preço obtido foi de R\$45.250,00 \cite{7}.
 
 \subsection{Central de Gerenciamento de Dados}
 É necessário haver um espaço para ser a sede do gerenciamento dos dados obtidos por todo o sistema Smart Grid. Nessa central serão analisados os insumos adquiridos pelo software SCADA, onde os técnicos e responsáveis poderão trabalhar de forma confortável e adequada para interpretar os resultados e tomar as decisões necessárias. 
 
-Será adquirido um contêiner para montar uma central de monitoramento de todo o sistema Smart Grid. O tamanho é o mesmo dos containers já usados na FGA e supre as necessidades ideais do projeto, possuindo um acabamento superior, com montagem em layouts específicos de acordo com a necessidade do projeto, módulos acopláveis permitindo a construção de ambientes amplos e conforto térmico superior, pois todas as paredes são feitas de termopainel [**8**]. 
+Será adquirido um contêiner para montar uma central de monitoramento de todo o sistema Smart Grid. O tamanho é o mesmo dos containers já usados na FGA e supre as necessidades ideais do projeto, possuindo um acabamento superior, com montagem em layouts específicos de acordo com a necessidade do projeto, módulos acopláveis permitindo a construção de ambientes amplos e conforto térmico superior, pois todas as paredes são feitas de termopainel \cite{8}. 
 
-Nesta central de monitoramento, é necessário haver uma máquina a qual será instalada o software e todo o trabalho será feito. O equipamento escolhido foi o Workstation da Dell T5810 que é ideal para efetuar esse tipo de monitoramento com o software SCADA que foi o escolhido. O computador seria usado para análises de dados do consumo de energia nos vários prédios da FGA, plotagem de gráficos e emissões de relatórios com tudo isso feito pelo software [**9**].
+Nesta central de monitoramento, é necessário haver uma máquina a qual será instalada o software e todo o trabalho será feito. O equipamento escolhido foi o Workstation da Dell T5810 que é ideal para efetuar esse tipo de monitoramento com o software SCADA que foi o escolhido. O computador seria usado para análises de dados do consumo de energia nos vários prédios da FGA, plotagem de gráficos e emissões de relatórios com tudo isso feito pelo software \cite{9}.
 
 \subsection{Gerador Biogás}
-Para a geração de energia a partir do biogás o gerador escolhido foi o BAT 5000 Bio, por possuir uma boa taxa de consumo do biogás gerado, para a conversão para energia elétrica. O gerador foi encontrado na empresa Senergam – Soluções Energéticas e Ambientas, e tem seu valor de R\$4.700,00 [**10**].
+Para a geração de energia a partir do biogás o gerador escolhido foi o BAT 5000 Bio, por possuir uma boa taxa de consumo do biogás gerado, para a conversão para energia elétrica. O gerador foi encontrado na empresa Senergam – Soluções Energéticas e Ambientas, e tem seu valor de R\$4.700,00 \cite{10}.
 
 \subsection{Quadro de Transferência Automática}
-O Quadro de transferência automática escolhido fora o Strazmaq, Modelo QTASTZ-MONO-8K-30A, devido sua compatibilidade com o gerador que gera uma potência aparente de 4 KVA, sendo que o quadro suporta até 8 KVA. Ele também possui a possibilidade de programação de funcionamento, gerando uma maior flexibilidade ao usuário, já que ele pode controlar o gerador. O quadro de transferência automático citado foi encontrado na empresa S\&S Grupo Geradores, pelo preço de R\$2.658,00 [**11**].
+O Quadro de transferência automática escolhido fora o Strazmaq, Modelo QTASTZ-MONO-8K-30A, devido sua compatibilidade com o gerador que gera uma potência aparente de 4 KVA, sendo que o quadro suporta até 8 KVA. Ele também possui a possibilidade de programação de funcionamento, gerando uma maior flexibilidade ao usuário, já que ele pode controlar o gerador. O quadro de transferência automático citado foi encontrado na empresa S\&S Grupo Geradores, pelo preço de R\$2.658,00 \cite{11}.
 \begin{figure}[!h]
 	\centering
 	\includegraphics[width=1.0\textwidth]{figuras/tabelaCustosFinal.png}
